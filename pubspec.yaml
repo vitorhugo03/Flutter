@@ -57,13 +57,13 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/alucard.jpg
-    - assets/umbrella-logo.jpg
-    - assets/leon-avatar.jpg
+    - lib/assets/alucard.jpg
+    - lib/assets/umbrella-logo.jpg
+    - lib/assets/leon-avatar.jpg
   fonts:
       - family: Nunito
         fonts:
-          - asset: assets/Nunito.ttf
+          - asset: lib/assets/Nunito.ttf
 
   # To add assets to your application, add an assets section, like this:
   # assets:
